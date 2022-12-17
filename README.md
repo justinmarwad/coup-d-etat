@@ -6,15 +6,15 @@ This is a Discord bot for the game Coup D'etat. A game where you
 
 - [Coup D'etat Discord Game Bot](#coup-detat-discord-game-bot)
   - [Table of Contents](#table-of-contents)
-    - [\[1\] Introduction](#1-introduction)
-      - [Game Description](#game-description)
-      - [\[2\] Installation](#2-installation)
-    - [License](#license)
+  - [\[1\] Introduction](#1-introduction)
+    - [Game Description](#game-description)
+    - [Installation](#installation)
+  - [License](#license)
 
 
-### [1] Introduction 
+## [1] Introduction 
 
-#### Game Description
+### Game Description
 
 Corruption rUfig Gdii2C1 ry histo ecT1throughG faces. Uarfil systems 'leadership, corrupt0 by small evil: And on the-rotheilliand,_cowpt evil systernswhose onlylhancernf redemptiornare the few willing-stand up and fight. Powers will rise and'filll, but they are marked by the men and women behind the system. Most of you are honorable and loyal members of the government, attempting . to maintain order and stability. You must do whatever it takes for:your country and watch your back, some are not so 
 ceikag3 ca 
@@ -22,7 +22,7 @@ ceikag3 ca
 A few of you are that small voice crying out for change. You have infiltrated the highest ranks of what you see as a tyrannical government. You are simply waiting for the moment when you can finally turn the tables. The moment of coup d'etat. 
 
 
-#### [2] Installation
+### Installation
 
 Pre-requisites: Python 3, Docker, and Docker Compose. 
 
@@ -39,7 +39,7 @@ DISCORD_BOT_TOKEN= # Discord bot token
 4. Run the bot: ```python bot.py```
 
 
-### License
+## License
 
 Copyright 2023 Discord Game Bois
 
