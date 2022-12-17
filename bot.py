@@ -36,7 +36,7 @@ class Bot(commands.Bot):
         self.print_result(f"[+] Ready. Logged in as {self.user}")
         
     async def on_message(self, message):
-        """ Do something when a messgae is received. """ 
+        """ Do something when a message is received. """ 
         if message.author == self.user:
             return # don't run commands on thyself 
 
